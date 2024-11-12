@@ -2,7 +2,7 @@
 title: Container Image
 parent: Hades
 layout: page
-grand_parent: OHDSI
+ancestor: OHDSI
 ---
 
 This is a customised version of the OHDSI Hades image.
