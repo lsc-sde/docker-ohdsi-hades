@@ -1,8 +1,8 @@
 ---
-title: HADES Container Image
-parent: OHDSI
+title: Container Image
+parent: Hades
 layout: page
-grand_parent: Components
+grand_parent: OHDSI
 ---
 
 This is a customised version of the OHDSI Hades image.
